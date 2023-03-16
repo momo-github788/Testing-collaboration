@@ -1,3 +1,3 @@
 public class Dog {
-   private int color;
+   private String color;
 }
