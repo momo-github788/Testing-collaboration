@@ -1,3 +1,3 @@
 public class Cat {
-   eeeeeeee
+   private String breed;
 }
